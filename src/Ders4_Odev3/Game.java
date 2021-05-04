@@ -7,4 +7,5 @@ public class Game implements IProduct{
 	public double price;
 	public Campaign campaing;
 	
+
 }
